@@ -1,0 +1,18 @@
+.btn-guruh{
+    text-align:right;
+}
+.btn-kok{
+    background-color: #37bc9b;
+}
+.text-font{
+    font-size: 30px;
+}
+.bg-kok{
+    background-color: #00324a;
+}
+/*.right-text{*/
+/*    position: absolute;*/
+/*}*/
+.bordered{
+    border: 2px solid grey;
+}
